@@ -1,7 +1,7 @@
 ## Hello, my name is Carlos 👋
 I'm from Argentina and I'm a Sociólogo Pythonista ¿o era al revés?
 
-![Etermax](https://www.etermax.com/img/etermax-logo-X.svg) I'm currently working at [Etermax](https://etermax.com/) as a Data Analyst.
+![Etermax](https://www.etermax.com/img/etermax-logo-X.svg) I'm currently working at [etermax](https://etermax.com/) as a Data Analyst.
 
 
 
