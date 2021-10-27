@@ -1,8 +1,7 @@
 ## Hello, my name is Carlos 👋
 I'm from Argentina and I'm a Sociólogo Pythonista ¿o era al revés?
 
-![Etermax](https://www.etermax.com/img/etermax-logo-X.svg) I'm currently working at [etermax](https://etermax.com/) as a Data Analyst.
-
+<img src="https://cdn.beek.io/design-system/images/favicons/apple-icon-144x144.png" alt="Beek" width="64" height="64" style="width:42px;height:42px;"> I'm currently working at [Beek](https://beek.io/) as a Data Analyst. Take advantage of your time and improve your life 😄.
 
 
 ---
