@@ -1,7 +1,11 @@
 ## Hello, my name is Carlos 👋
 I'm from Argentina and I'm a Sociólogo Pythonista ¿o era al revés?
 
-<img src="https://cdn.beek.io/design-system/images/favicons/apple-icon-144x144.png" alt="Beek" width="64" height="64" style="width:42px;height:42px;"> I'm currently working at [Beek](https://beek.io/) as a ~Data Analyst~ Data Engineer. Take advantage of your time and improve your life 😄.
+<img align="left" src="https://www.datalytics.com/wp-content/uploads/2023/10/datalytics_logo_favicon.png" alt="Datalytics" width=10% style="padding: 10px"> 
+
+I'm currently working at [Datalytics](https://www.datalytics.com/) as a Data Engineer. We use data to help you make better decisions, create new business models, and optimize your operations. 😄.
+
+#BetterWithData #MejorConDatos
 
 
 ---
