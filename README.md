@@ -2,11 +2,12 @@
 ## Hello, my name is Carlos 👋
 I'm from Argentina and I'm a Sociólogo Pythonista ¿o era al revés?
 
-<img align="left" src="https://www.datalytics.com/wp-content/uploads/2023/10/datalytics_logo_favicon.png" alt="Datalytics" width=10% style="padding: 10px"> 
+<img align="left" src="https://acidlabs.com/wp-content/uploads/2022/09/icon_acidalabs.png" alt="Acid Labs" style="padding: 10px"> 
 
-I'm currently working at [Datalytics](https://www.datalytics.com/) as a Data Engineer. We use data to help you make better decisions, create new business models, and optimize your operations. 😄.
+I'm currently working at [Acid Labs](https://acidlabs.com/) as a Data Engineer. 
 
-#BetterWithData #MejorConDatos
+Technology Solutions for your Business. 
+We empower your company with high level technology, collaboration and innovation according to your needs.  
 
 
 ---
